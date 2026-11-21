@@ -1,0 +1,6 @@
+{
+  "name": "Mister Jo – Physics Olympiad Training Lab",
+  "description": "Laboratorium pembelajaran interaktif 15 tantangan Olimpiade Sains Fisika Kabupaten/Kota (OSK Fisika 2026 Soal Nomor 12) bersama Mister Jo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
